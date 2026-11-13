@@ -1,0 +1,9 @@
+# Compiled binaries and shared libraries
+*.o
+*.so
+server
+client
+
+# Runtime logs and packet captures
+audit.log
+*.pcap
